@@ -25,11 +25,8 @@ Criar um espaço de aprendizado contínuo, onde irei armazenar códigos, anotaç
 ## 📖 Recursos e Materiais
 Aqui estarão listados cursos, artigos e vídeos úteis para cada tecnologia abordada.
 
-- [MDN Web Docs](https://developer.mozilla.org/)
-- [W3Schools](https://www.w3schools.com/)
-- [React Documentation](https://reactjs.org/)
-- [MongoDB University](https://university.mongodb.com/)
-
+- [The Complete Full-Stack Web Development Bootcamp](https://www.udemy.com/course/the-complete-web-development-bootcamp/?couponCode=ST10MT30325G2)
+- [Curso de TypeScript para Completos Iniciantes](https://www.youtube.com/watch?v=ppDsxbUNtNQ)
 ## ✨ Contribuição
 Este é um repositório de estudos pessoais, mas sugestões e melhorias são bem-vindas! Caso queira contribuir, abra uma issue ou faça um pull request.
 
