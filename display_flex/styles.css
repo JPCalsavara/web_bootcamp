@@ -1,0 +1,48 @@
+body{
+    background-color: white;
+    margin: 0 auto;
+}
+
+nav {
+    margin: 2rem 5rem;
+    display: flex;
+    justify-content: space-between;
+    background-color: gray;
+
+}
+
+div{
+    margin: 2rem 5rem;
+}
+
+nav ul {
+    display: flex;
+    justify-content: space-between;
+    gap: 2rem;
+    list-style-type: none;
+}
+
+.gray-back{
+    margin: 0;
+    width: 100%;
+    background-color: gray;
+    top: 0;
+    left: 0;
+}
+
+.hero{
+    display: flex;
+    justify-content: space-between;
+    align-items: stretch;
+    
+}
+
+.hero-text{
+}
+
+.block{
+    display: flex;
+    justify-content: space-between;;
+}
+
+
